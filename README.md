@@ -12,7 +12,7 @@ This project aims to create an Image Captioner that outputs text captions given 
 - Clone this repo: `https://github.com/arief25ramadhan/image-captioning.git`
 - Change the working directory: `cd image-captioning`
 - Install dependencies: `pip3 install -r requirements.txt`
-- Run thi command: `streamlit run App.py`
+- Run thi command: `streamlit run app.py`
 
 ### Via Docker
 
